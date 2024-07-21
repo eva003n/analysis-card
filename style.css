@@ -91,6 +91,7 @@ h3 {
     background-image: url(images/image-header-desktop.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    border-radius: 0;
   }
   .card-des {
     grid-row: 1;
@@ -118,7 +119,5 @@ h3 {
     text-align: left;
     padding-left: 0;
   }
-  img{
-    border-radius: 0;
-  }
+  
 }
