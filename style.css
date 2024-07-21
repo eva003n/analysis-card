@@ -118,4 +118,7 @@ h3 {
     text-align: left;
     padding-left: 0;
   }
+  img{
+    border-radius: 0;
+  }
 }
